@@ -47,6 +47,41 @@ safesearch: Ensures safe search.
 page: Current page number.
 per_page: Number of results per page (15).
 
+Setup and Installation
+Clone the repository:
+
+bash
+
+git clone https://github.com/your-username/image-search-app.git
+cd image-search-app
+Install dependencies:
+
+bash
+
+npm install
+Start the development server:
+
+bash
+
+npm run dev
+Open the application in your browser at:
+
+arduino
+
+http://localhost:3000
+Deployment
+The project can be deployed using GitHub Pages or other static hosting platforms. To build the project for production, run:
+
+bash
+
+npm run build
+The compiled files will be available in the dist directory.
+
+File Structure:
+
+![Screenshot 2024-12-26 143300](https://github.com/user-attachments/assets/2011d1f1-6c56-4721-87a1-c1dc3adec728)
+
+
 Demo
 You can see a live demo of the application here: Live Demo Link
 
